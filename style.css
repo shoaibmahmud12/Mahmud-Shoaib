@@ -1,0 +1,17 @@
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: bold;
+    height: 100vh;
+  }
+  
+  .digit {
+    padding: 0 10px;
+  }
+  
+  .colon {
+    opacity: 0.6;
+  }
+  
